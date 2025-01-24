@@ -1,4 +1,4 @@
-# S3 Platform Plugin Template
+# MIT (S3 Platform Plugin)
 
 [![Test Plugin](https://github.com/S3-Platform-Inc/s3p-plugin-parser-mit/actions/workflows/plugin_test.yml/badge.svg)](https://github.com/S3-Platform-Inc/s3p-plugin-parser-mit/actions/workflows/plugin_test.yml)
 [![Release plugin](https://github.com/S3-Platform-Inc/s3p-plugin-parser-mit/actions/workflows/build-release.yml/badge.svg)](https://github.com/S3-Platform-Inc/s3p-plugin-parser-mit/actions/workflows/build-release.yml)

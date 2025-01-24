@@ -34,10 +34,6 @@ class MIT(S3PParserBase):
         # HOST - это главная ссылка на источник, по которому будет "бегать" парсер
         self.logger.debug(F"Parser enter")
 
-        # ========================================
-        # Тут должен находится блок кода, отвечающий за парсинг конкретного источника
-        # -
-
         topics = {'Social media': 'https://news.mit.edu/topic/social-media',
                   'Wearable sensors': 'https://news.mit.edu/topic/wearable-sensors',
                   'Data': 'https://news.mit.edu/topic/data',
@@ -181,7 +177,3 @@ class MIT(S3PParserBase):
                 except Exception as e:
 
                     more_pages = False
-
-        # ---
-        # ========================================
-        ...
